@@ -11,10 +11,10 @@
 #
 #
 #PERSONAL INFORMATION (STRINGS)
-full_name = "Jordan Smith"
-student_email = "jsmith@ncat.edu"
-hometown = "Charlotte, NC"
-graduation_semester = "Spring 2028"
+full_name = "Lauren Arnold"
+student_email = "larnold@ncat.edu"
+hometown = "Washington, DC"
+graduation_semester = "Spring 2029"
 major = "Computer Science"
 
 #ACADEMIC DATA ORGANIZATION (LIST VALUES)
@@ -25,10 +25,10 @@ gpa_history_list = [3.2, 3.6, 3.4, 3.7] #semester GPAs as floats
 
 #CONTACT INFORMATION STORAGE (TUPLES)
 emergency_contact = ("Mom", "Hannah Smith", "704-555-0199")
-home_address = ("456 Oak Street", "Charlotte", "NC", 28202)
-instagram = ("Instagram", "@jordan_codes", 312)
+home_address = ("456 Oak Street", "Laurel", "MD", 28202)
+instagram = ("Instagram", "@laureniam", 312)
 twitter = ("Twitter", "@jordandev", 127)
-birthday = ("Birthday", 5, 22, 2006)
+birthday = ("Birthday", 5, 22, 1983)
 
 #INTEREST TRACKING 
 current_skills = {"Python basics", "HTML", "Problem solving", "Time management", "Photography"}
